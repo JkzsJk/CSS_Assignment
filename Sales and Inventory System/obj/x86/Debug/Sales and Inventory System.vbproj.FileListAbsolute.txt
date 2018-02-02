@@ -516,3 +516,68 @@ C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\Sales and Inventory Sy
 C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\Sales and Inventory System(Whole Sale)[Ms. Access]\Sales and Inventory System\bin\Debug\FlashControlV71.dll
 C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\Sales and Inventory System(Whole Sale)[Ms. Access]\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe.manifest
 C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\Sales and Inventory System(Whole Sale)[Ms. Access]\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.application
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.manifest
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.application
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\FlashControlV71.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbprojResolveAssemblyReference.cache
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmBillingReport.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomer.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord1.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord2.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord3.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategory.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategoryRecord.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInvoice.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoiceNo.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoicesReport.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmMain.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrder.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord1.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrders.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrdersReport.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmPasswordRecovery.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmPrintOptions.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProduct.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct1.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationDetails.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationReport.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSales.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmAbout.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLogin.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSplashScreen.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStock.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails1.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSystemInfo.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendor.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords1.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.Resources.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistration.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.GenerateResource.Cache
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.CoreCompileInputs.cache
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.TrustInfo.xml
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe.manifest
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.application
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
