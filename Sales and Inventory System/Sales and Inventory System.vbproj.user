@@ -2,7 +2,11 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
+<<<<<<< HEAD
     <PublishUrlHistory>CSS_Inventory_Management_System_Setup\|CSS_Inventory_Management_System\|C:\CSS_Inventory_Management_System\|C:\CSS_Inventory_Management_System|%25userprofile%25\Documents\GitHub\CSS_Assignment\</PublishUrlHistory>
+=======
+    <PublishUrlHistory>C:\Users\Aaron\Desktop\|C:\Users\Raj\Desktop\</PublishUrlHistory>
+>>>>>>> 0d664ba4514790c7731dbe556a72ffadaeeeb704
     <InstallUrlHistory />
     <SupportUrlHistory />
     <UpdateUrlHistory />

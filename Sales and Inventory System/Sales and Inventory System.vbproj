@@ -17,7 +17,11 @@
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
     <IsWebBootstrapper>false</IsWebBootstrapper>
+<<<<<<< HEAD
     <PublishUrl>CSS_Inventory_Management_System_Setup\</PublishUrl>
+=======
+    <PublishUrl>C:\Users\Aaron\Desktop\</PublishUrl>
+>>>>>>> 0d664ba4514790c7731dbe556a72ffadaeeeb704
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
