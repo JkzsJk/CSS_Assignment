@@ -103,14 +103,22 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+<<<<<<< HEAD
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sales and Inventory System.exe" size="4255744">
+=======
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sales and Inventory System.exe" size="4175360">
+>>>>>>> a6218e085b3b965ba856ec2095c3d3919bdc2200
       <assemblyIdentity name="Sales and Inventory System" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<<<<<<< HEAD
         <dsig:DigestValue>w6/rzwCVfp6c/T9SV0H0DNYdV5o=</dsig:DigestValue>
+=======
+        <dsig:DigestValue>rqT/g/OY1GmxGMLEpYdrZ1tNstQ=</dsig:DigestValue>
+>>>>>>> a6218e085b3b965ba856ec2095c3d3919bdc2200
       </hash>
     </dependentAssembly>
   </dependency>
