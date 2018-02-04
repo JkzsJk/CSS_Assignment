@@ -110,7 +110,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ZMOt/Np3Eoc+ZLJysC/2ryX+gZE=</dsig:DigestValue>
+        <dsig:DigestValue>DNTDjhdZ0G1+YdR/8NpuA0Cp0Xo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -123,13 +123,13 @@
       <dsig:DigestValue>e+oC4JKJfWdoRjSu8yDdbAG1V18=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Sales and Inventory System.exe.config" size="609">
+  <file name="Sales and Inventory System.exe.config" size="787">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>xgOZAJ5HyJnYudUl85k1TPsE3dY=</dsig:DigestValue>
+      <dsig:DigestValue>lo8o7Tg6jmfPpytz+FL+VBthgRs=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

@@ -79,13 +79,17 @@
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>F05C8116F58FA535FC31060D491D4C7FC40A8449</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>DC1428531D89EAD1911EBF68A350B66323644D36</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>Sales and Inventory System_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
@@ -622,6 +626,7 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="packages.config" />
+    <None Include="Sales and Inventory System_1_TemporaryKey.pfx" />
     <None Include="Sales and Inventory System_TemporaryKey.pfx" />
     <None Include="SI_DBDataSet.xsc">
       <DependentUpon>SI_DBDataSet.xsd</DependentUpon>

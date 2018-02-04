@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Sales and Inventory System")> 
-<Assembly: AssemblyDescription("Warning: Please do not distribute this computer program without permission of its owner. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted under the maximum extent possible under law.")> 
-<Assembly: AssemblyCompany("Developed By : ShreeJinfotech")> 
-<Assembly: AssemblyProduct("Sales and Inventory System")> 
-<Assembly: AssemblyCopyright("Copyright ©  2013")> 
+<Assembly: AssemblyTitle("Sales and Inventory System")>
+<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyCompany("Developed By : Aaron Chan Weng Loong, Gan Han Siang, Khor Zhe Sheng & Tan Sea Ni.")>
+<Assembly: AssemblyProduct("Inventory Management System")>
+<Assembly: AssemblyCopyright("Copyright ©  2018")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
