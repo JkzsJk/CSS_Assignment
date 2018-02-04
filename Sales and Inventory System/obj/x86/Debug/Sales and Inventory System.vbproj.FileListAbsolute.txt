@@ -451,6 +451,44 @@ E:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\bi
 E:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
 E:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
 E:\Projects\Sales and Inventory System(Whole Sale)\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.manifest
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.application
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\stdole.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\office.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\office.xml
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbprojResolveAssemblyReference.cache
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmBillingReport.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmChangePassword.resources
@@ -499,15 +537,10 @@ C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\o
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistration.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.GenerateResource.Cache
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.CoreCompileInputs.cache
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.manifest
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.application
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.TrustInfo.xml
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe.manifest
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.application
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\FlashControlV71.dll
