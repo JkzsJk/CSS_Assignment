@@ -458,10 +458,16 @@ C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\b
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportSource.dll
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.Shared.dll
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\FlashControlV71.dll
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\Microsoft.Office.Interop.Excel.dll
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\stdole.dll
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\office.dll
@@ -543,4 +549,3 @@ C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\o
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\FlashControlV71.dll
