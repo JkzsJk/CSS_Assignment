@@ -1,0 +1,21 @@
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\bin\Debug\Membership.accdb
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\bin\Debug\CSS ASSIGNMENT.exe.config
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\bin\Debug\CSS ASSIGNMENT.exe
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\bin\Debug\CSS ASSIGNMENT.pdb
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\bin\Debug\CSS ASSIGNMENT.xml
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS_ASSIGNMENT.Login.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS_ASSIGNMENT.Main.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS_ASSIGNMENT.PInfo.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS_ASSIGNMENT.Resources.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS_ASSIGNMENT.MemberReport.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS_ASSIGNMENT.PaymentReport.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS Assignment.vbproj.GenerateResource.Cache
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS ASSIGNMENT.exe
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS ASSIGNMENT.xml
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\CSS ASSIGNMENT\obj\Debug\CSS ASSIGNMENT.pdb
