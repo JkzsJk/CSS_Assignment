@@ -1,0 +1,111 @@
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe.config
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.pdb
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.xml
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Login.resources
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Main.resources
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PInfo.resources
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Resources.resources
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbproj.GenerateResource.Cache
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.exe
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.xml
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.pdb
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbprojResolveAssemblyReference.cache
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.MemberReport.resources
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PaymentReport.resources
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\RdlCompile.cache
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\RdlCompile.compiled
+C:\Users\ChoongFoo\Documents\GitHub\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\Membership.accdb
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe.config
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.exe
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.xml
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.pdb
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\Membership.accdb
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.pdb
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.xml
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbprojResolveAssemblyReference.cache
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Login.resources
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Main.resources
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PInfo.resources
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Resources.resources
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.MemberReport.resources
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PaymentReport.resources
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbproj.GenerateResource.Cache
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\RdlCompile.cache
+C:\Users\ChoongFoo\Desktop\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\RdlCompile.compiled
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe.config
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.exe
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.xml
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.pdb
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\Membership.accdb
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.pdb
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.xml
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbprojResolveAssemblyReference.cache
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Login.resources
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Main.resources
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PInfo.resources
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Resources.resources
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.MemberReport.resources
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PaymentReport.resources
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbproj.GenerateResource.Cache
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\RdlCompile.cache
+E:\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\RdlCompile.compiled
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe.config
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.exe
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.xml
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.pdb
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\Membership.accdb
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.pdb
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.xml
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbprojResolveAssemblyReference.cache
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Login.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Main.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PInfo.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Resources.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.MemberReport.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PaymentReport.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbproj.GenerateResource.Cache
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\RdlCompile.cache
+C:\Users\ChoongFoo\Documents\APU\Semester 4\VBN Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\RdlCompile.compiled
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe.config
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.exe
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.xml
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.pdb
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\Membership.accdb
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.pdb
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.xml
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbprojResolveAssemblyReference.cache
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Login.resources
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Main.resources
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PInfo.resources
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Resources.resources
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.MemberReport.resources
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PaymentReport.resources
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbproj.GenerateResource.Cache
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\RdlCompile.cache
+F:\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\RdlCompile.compiled
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbprojResolveAssemblyReference.cache
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Login.resources
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Main.resources
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PInfo.resources
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.Resources.resources
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.MemberReport.resources
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET_ASSIGNMENT.PaymentReport.resources
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbproj.GenerateResource.Cache
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.vbproj.CoreCompileInputs.cache
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.exe
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.xml
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\obj\Debug\VB.NET ASSIGNMENT.pdb
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\Membership.accdb
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe.config
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.exe
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.pdb
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\VB.NET ASSIGNMENT.xml
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Diploma(2014 to 2016)\Semester 4(DIPLOMA)\VB.NET\Assignment\VB.N-Aissgnment\VB.NET ASSIGNMENT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
