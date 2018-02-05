@@ -544,3 +544,11 @@ C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\o
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\FlashControlV71.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\log4net.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment\Sales and Inventory System\bin\Debug\log4net.xml
